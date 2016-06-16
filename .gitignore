@@ -1,0 +1,9 @@
+.idea
+*.pyc
+*.out
+*.bak
+*.iml
+.DS_Store
+apps/*/migrations
+xblog/whoosh_index
+media/avator/*
